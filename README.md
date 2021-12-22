@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Tran 
 - 👀 I’m interested in cars, coding, stocks
 - 🌱 I’m currently studying computer science
-- 💞️ I’m looking to collaborate on any project relating to python or c++
+- 💞️ I’m looking to collaborate on any project relating to Python or C++
 - 📫 How to reach me email @ddtran888@gmail.com
 
 <!---
