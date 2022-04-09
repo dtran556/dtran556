@@ -2,7 +2,7 @@
 - 👀 I’m interested in cars, coding, stocks
 - 🌱 I’m currently studying computer science at De Anza College
 - 💞️ I’m looking to collaborate on any project relating to Python, C++ or Java
-- 📫 How to reach me email @ddtran888@gmail.com
+- 📫 Feel free to reach out to me at ddtran888@gmail.com
 - Currently I am learning how to make my own portfolio website using HTML, CSS, and Java Script
 - I am also currently adding the finishing touches on my Stock Alerts project
 
